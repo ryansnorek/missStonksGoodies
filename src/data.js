@@ -49,10 +49,10 @@ export const goodiesData = [
       salty: 3,
       chewy: 1,
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHht10jGyrUz2JIRZhOF0TNN-7bTNLyCPhmQ&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfdzdE4RQECJdgh9yn5njNZ-RASSU8E63lbg&usqp=CAU",
       sizes: ["small"],
       description:
-        "Fake sophistication and orgasms. Eat this shit with a tiny ass fork and an upturned nose.",
+        "Fake sophistication and orgasms with your champagne cake. Eat this shit with a tiny ass fork and an upturned nose.",
       price: 6,
     },
     {
@@ -77,7 +77,7 @@ export const goodiesData = [
       salty: 3,
       chewy: 9,
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHht10jGyrUz2JIRZhOF0TNN-7bTNLyCPhmQ&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXZKIBeDLUdOn6VmBAu8Yphfl9O_H0ii8UAQ&usqp=CAU",
       sizes: ["small"],
       description:
         "Psych yourself up for a hot date by eating these balls. They include maca powder so you're certain to impress your partner with your virility",
@@ -91,7 +91,7 @@ export const goodiesData = [
       salty: 5,
       chewy: 2,
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHht10jGyrUz2JIRZhOF0TNN-7bTNLyCPhmQ&usqp=CAU",
+        "https://lilluna.com/wp-content/uploads/2013/08/green-chile-burrito-resize-7.jpg",
       sizes: ["small"],
       description:
         "Fed up with your current debts? We've got you covered. All green shit and eggs and cheese and green salsa. No substitutions.",
