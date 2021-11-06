@@ -1,7 +1,7 @@
 
 export const goodiesData = [
     {
-      name: "BBC aka Chonky Chip",
+      name: "Chonky Chip",
       id: 420,
       keyDescription: "Chewy, salty",
       sweet: 6,
