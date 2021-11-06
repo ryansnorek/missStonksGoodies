@@ -81,7 +81,7 @@ export const goodiesData = [
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXZKIBeDLUdOn6VmBAu8Yphfl9O_H0ii8UAQ&usqp=CAU",
       sizes: ["small"],
       description:
-        "Be prepared for a hot date. They include maca powder so you're certain to impress your partner with your virility",
+        "Be prepared for a hot date. Infused with maca powder so you're certain to impress your partner with your virility",
       price: 10,
     },
     {
@@ -101,7 +101,7 @@ export const goodiesData = [
     {
       name: "They Cookies",
       id: 427,
-      keyDescription: "Crumbly, politicaly correct",
+      keyDescription: "Crumbly, politically correct",
       sweet: 6,
       salty: 3,
       chewy: 6,
