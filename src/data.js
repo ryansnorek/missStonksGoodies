@@ -25,7 +25,7 @@ export const goodiesData = [
         "images/bread.jpg",
       sizes: ["small"],
       description:
-        "Eat it raw. Toast it with boysenberry jelly exclusively. Other jellies are not our jam. Or have a slice with avocado and disappoint your parents.",
+        "Eat it raw or toast it with boysenberry jelly exclusively. Other jellies are not our jam. Or have a slice with avocado and disappoint your parents.",
       price: 7,
     },
     {
@@ -53,7 +53,7 @@ export const goodiesData = [
         "images/cake.jpeg",
       sizes: ["small"],
       description:
-        "Fake sophistication and orgasms with your champagne cake. Eat this shit with a tiny ass fork and an upturned nose.",
+        "Fake sophistication and orgasms pair well with our champagne cake. Eat with a tiny fork and an upturned nose.",
       price: 6,
     },
     {
@@ -81,7 +81,7 @@ export const goodiesData = [
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXZKIBeDLUdOn6VmBAu8Yphfl9O_H0ii8UAQ&usqp=CAU",
       sizes: ["small"],
       description:
-        "Psych yourself up for a hot date by eating these balls. They include maca powder so you're certain to impress your partner with your virility",
+        "Be prepared for a hot date. They include maca powder so you're certain to impress your partner with your virility",
       price: 10,
     },
     {
