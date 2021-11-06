@@ -63,9 +63,9 @@ const CheckoutForm = () => {
       {showSuccessMessage && (
         <div className="success-message" data-testid="successMessage">
           <p>
-            You have ordered some plants! Woo-hoo! <span role="img">🎉</span>
+            Order placed! <span role="img">🎉</span>
           </p>
-          <p>Your new green friends will be shipped to:</p>
+          <p>Your goodies will be shipped to:</p>
           <br />
           <br />
           <p>

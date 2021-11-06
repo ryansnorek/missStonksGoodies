@@ -1,18 +1,12 @@
 import React, { Component } from "react";
-// import axios from "axios";
 import { goodiesData } from "../data";
+// import  "./assets/they.jpg";/
+
 
 export default class ItemList extends Component {
   state = {
     goodies: goodiesData
   }
-  // componentDidMount() {
-  //   axios.get("http://localhost:3333/goodies")
-  //     .then(res => {
-  //       this.setState({ goodies: res.data });
-  //     })
-  //     .catch(err => console.error(err));
-  // }
   render() {
     return (
       <main className="goodies-list">

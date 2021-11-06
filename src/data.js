@@ -1,3 +1,4 @@
+
 export const goodiesData = [
     {
       name: "BBC aka Chonky Chip",
@@ -21,7 +22,7 @@ export const goodiesData = [
       salty: 2,
       chewy: 6,
       img:
-        "https://www.dishbydish.net/wp-content/uploads/Fluffy-Gluten-Free-Bread-Dairy-Free_Final7-scaled.jpg",
+        "images/bread.jpg",
       sizes: ["small"],
       description:
         "Eat it raw. Toast it with boysenberry jelly exclusively. Other jellies are not our jam. Or have a slice with avocado and disappoint your parents.",
@@ -49,7 +50,7 @@ export const goodiesData = [
       salty: 3,
       chewy: 1,
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfdzdE4RQECJdgh9yn5njNZ-RASSU8E63lbg&usqp=CAU",
+        "images/cake.jpeg",
       sizes: ["small"],
       description:
         "Fake sophistication and orgasms with your champagne cake. Eat this shit with a tiny ass fork and an upturned nose.",
@@ -91,7 +92,7 @@ export const goodiesData = [
       salty: 5,
       chewy: 2,
       img:
-        "https://lilluna.com/wp-content/uploads/2013/08/green-chile-burrito-resize-7.jpg",
+        "images/burrito.jpg",
       sizes: ["small"],
       description:
         "Fed up with your current debts? We've got you covered. All green shit and eggs and cheese and green salsa. No substitutions.",
@@ -105,7 +106,7 @@ export const goodiesData = [
       salty: 3,
       chewy: 6,
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTq8WY6PXpFvZVt-AMh5YxyMcs9-8BYXk5lA&usqp=CAU",
+        "images/they.jpg",
       sizes: ["small"],
       description:
         "Cis gendered beings not allowed. These anuenue allies are crumbly, to remind you to do your part to crumble the patriarchy.",
