@@ -1,17 +1,18 @@
 import React, { Component } from "react";
-import axios from "axios";
+// import axios from "axios";
+import { goodiesData } from "../data";
 
 export default class ItemList extends Component {
   state = {
-    goodies: []
+    goodies: goodiesData
   }
-  componentDidMount() {
-    axios.get("http://localhost:3333/goodies")
-      .then(res => {
-        this.setState({ goodies: res.data });
-      })
-      .catch(err => console.error(err));
-  }
+  // componentDidMount() {
+  //   axios.get("http://localhost:3333/goodies")
+  //     .then(res => {
+  //       this.setState({ goodies: res.data });
+  //     })
+  //     .catch(err => console.error(err));
+  // }
   render() {
     return (
       <main className="goodies-list">
