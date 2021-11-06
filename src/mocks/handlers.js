@@ -3,7 +3,7 @@ import { rest } from 'msw'
 const goodiesData = [
   {
     name: "BBC aka Chonky Chip",
-    id: 143,
+    id: 420,
     keyDescription: "Chewy, salty",
     sweet: 6,
     salty: 8,
@@ -17,7 +17,7 @@ const goodiesData = [
   },
   {
     name: "All Your Bread Are Belong To Us",
-    id: 142,
+    id: 421,
     keyDescription: "Chewy, scrumcious",
     sweet: 2,
     salty: 8,
@@ -31,7 +31,7 @@ const goodiesData = [
   },
   {
     name: "Based Brownies",
-    id: 142,
+    id: 422,
     keyDescription: "Chewy, gobby",
     sweet: 7,
     salty: 5,
@@ -45,7 +45,7 @@ const goodiesData = [
   },
   {
     name: "All Your Bread Are Belong To Us",
-    id: 142,
+    id: 143,
     keyDescription: "Chewy, scrumcious",
     sweet: 2,
     salty: 8,
@@ -59,7 +59,7 @@ const goodiesData = [
   },
   {
     name: "All Your Bread Are Belong To Us",
-    id: 142,
+    id: 144,
     keyDescription: "Chewy, scrumcious",
     sweet: 2,
     salty: 8,
@@ -73,7 +73,7 @@ const goodiesData = [
   },
   {
     name: "All Your Bread Are Belong To Us",
-    id: 142,
+    id: 145,
     keyDescription: "Chewy, scrumcious",
     sweet: 2,
     salty: 8,
@@ -87,7 +87,7 @@ const goodiesData = [
   },
   {
     name: "All Your Bread Are Belong To Us",
-    id: 142,
+    id: 146,
     keyDescription: "Chewy, scrumcious",
     sweet: 2,
     salty: 8,
@@ -101,7 +101,7 @@ const goodiesData = [
   },
   {
     name: "All Your Bread Are Belong To Us",
-    id: 142,
+    id: 147,
     keyDescription: "Chewy, scrumcious",
     sweet: 2,
     salty: 8,
