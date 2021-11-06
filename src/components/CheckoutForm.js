@@ -10,7 +10,7 @@ const initialValue = {
   zip: "",
 };
 
-const CheckoutForm = (props) => {
+const CheckoutForm = () => {
   
   const [ values, 
           handleChanges, 
