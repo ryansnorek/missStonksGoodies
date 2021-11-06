@@ -11,7 +11,6 @@ const initialValue = {
 };
 
 const CheckoutForm = () => {
-  
   const [ values, 
           handleChanges, 
           handleSubmit, 
